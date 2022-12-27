@@ -1,0 +1,21 @@
+prueba.prg
+
+-Ic:\si\nlen\fwh1906\include
+
+-Lc:\si\nlen\fwh1906\lib
+-lFiveH
+-lFiveHC
+
+#LIBRERIAS HARBOUR (se añaden las cabeceras .hbc)
+xhb.hbc
+hbct.hbc
+hbwin.hbc
+hbmzip.hbc
+hbziparc.hbc
+hbhpdf.hbc
+hbcomm.hbc
+hbmxml.hbc
+hbcurl.hbc
+
+..\TPrestashop.prg
+..\Clases\TXmlHash.prg
